@@ -9,4 +9,5 @@ MODE: ONLINE
 
 OFFER LETTER:-
 
-![OFFER LETTER](https://github.com/dhairya-gayakwad/CODSOFT/issues/2#issue-2340247486)
+![OFFER LETTER]()
+
