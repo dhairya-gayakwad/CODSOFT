@@ -9,4 +9,4 @@ MODE: ONLINE
 
 OFFER LETTER:-
 
-![OFFER LETTER]()
+![OFFER LETTER](https://github.com/user-attachments/files/15738342/Gayakwad.Dhairya.pdf)
