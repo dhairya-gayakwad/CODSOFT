@@ -9,5 +9,5 @@ MODE: ONLINE
 
 OFFER LETTER:-
 
-![OFFER LETTER]()
+![OFFER LETTER](https://github.com/dhairya-gayakwad/CODSOFT/assets/170263438/1b22b8e4-425c-4b12-9278-010f9d9797e9)
 
