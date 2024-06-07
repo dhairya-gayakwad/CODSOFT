@@ -9,4 +9,4 @@ MODE: ONLINE
 
 OFFER LETTER:-
 
-![OFFER LETTER](https://github.com/user-attachments/files/15738342/Gayakwad.Dhairya.pdf)
+![OFFER LETTER](https://github.com/dhairya-gayakwad/CODSOFT/issues/2#issue-2340247486)
